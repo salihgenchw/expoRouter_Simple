@@ -12,7 +12,7 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
 
-## Screenshots
+## 📸 Screenshots
 
 | Screenshot 1                     | Screenshot 2                     | Screenshot 3                     |
 | -------------------------------- | -------------------------------- | -------------------------------- |
