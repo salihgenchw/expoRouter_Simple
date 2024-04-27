@@ -12,8 +12,8 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
 
-## ScreenShots
+## Screenshots
 
-![Screenshot 1](/assets/ss1.JPG)
-![Screenshot 2](/assets/ss2.JPG)
-![Screenshot 3](/assets/ss3.JPG)
+| Screenshot 1                     | Screenshot 2                     | Screenshot 3                     |
+| -------------------------------- | -------------------------------- | -------------------------------- |
+| ![Screenshot 1](/assets/ss1.JPG) | ![Screenshot 2](/assets/ss2.JPG) | ![Screenshot 3](/assets/ss3.JPG) |
